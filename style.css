@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+.one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+}
+.one img {
+    width: 500px;
+    height: 500px;
+    padding-left: 50px;
+}
+.one h1 {
+    font-family: montserrat;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 130%;
+    color: #575757;
+}
+.head-text {
+    background: -webkit-linear-gradient(88.33deg,#fba24f -7.64%,#ff1e1e 145.94%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.one p {
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height 160%;
+    letter-spacing: -0.02em;
+    color: #828282;
+    width: 499px;
+    margin-bottom: 50px;
+}
+.one a,.about a {
+    background: -webkit-linear-gradient(88.33deg,#fba24f -7.64%,#ff1e1e 145.94%);
+    width: 192px;
+    height: 68px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(247, 98, 98);
+    border-radius: 100px; 
+    color: #ffffff;
+    text-decoration: none;
+
+}
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(./image3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0px 80px;
+    padding-top: 64px;
+}
+.about img {
+    width: 338px;
+    height: 536px;
+    top: 64px;
+    padding-left: 50px;
+}
+.about h1 {
+    font-family: montserrat;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 54px;
+    color:#707070;
+    width: 444px;
+}
+.about p {
+    font-family: montserrat;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    color:#707070;
+    padding-bottom: 35px;
+    padding-right: 200px;
+    width: 444px;
+}
+.two {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0px;
+}
+.two img {
+    width: 400px;
+    height: 400px;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+.recipi {
+    text-align:center;
+}
+.recipi p {
+    text-align:center;
+}
+.two h1 {
+    text-align:center;
+}
+.two p {
+    text-align:center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
